@@ -1,6 +1,9 @@
 * {
   color: purple;
 }
+div {
+    background-color: blueviolet;
+}
 
 .alert-text {
   color: red;
