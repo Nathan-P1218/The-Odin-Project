@@ -2,6 +2,7 @@
   color: purple;
 }
 div {
+    color: chartreuse;
     background-color: blueviolet;
 }
 
@@ -9,5 +10,6 @@ div {
   color: red;
 }
 #title {
+    color: antiquewhite;
   background-color: red;
 }
